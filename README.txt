@@ -1,3 +1,7 @@
+Step 1:
+download all the files and input 'make' in the terminal
+
+Step 2:
 ------
 Usage:
 ------
