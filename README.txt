@@ -10,7 +10,7 @@ example:
 Index File
 ----------
 format:
-token:     fileId, frequency; fileId, frequency;
+token:     fileId, frequency; fileId, frequency; 
 ~~~~~~     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 dictionary            posting list
 
